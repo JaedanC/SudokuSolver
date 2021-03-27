@@ -1,4 +1,4 @@
-# SudokuSolver 🧩
+# Sudoku Solver 🧩
 
 This Python script solves Sudoku's in the terminal using the backtracking method. I did this for fun without external resources. This may not be the most efficient way to solve them.
 
